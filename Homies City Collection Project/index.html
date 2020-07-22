@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>US Cities Statistics</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="stylesheet" href="CSS/d3Style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Homies City Collection</h1>
+        <p>Statistical data of the most common cities in the United States of America</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="well">
+          <h5>U.S. City List:</h5>
+      
+            <div class="row">
+              <div class="col-md-12">
+                <div class="well">
+                  <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                </div>
+              </div>
+              </div>
+                <div class="panel panel-primary">
+                  <div class="panel-heading">
+                    <h2 class="panel-title">Which U.S. city is the best to live in?</h2>
+                    <p></p>
+                    <p>First, it is imperative to acknowlege that "best" is a subjective term as well as a subjective measurement.  Each individual has a unique set of standards of what makes anything the best.  Searching for the "best city to live in" is no exception.  An individual's paradigm of what makes a city "the best to live in" can include everything from crime to pollution to cost-of-living.</p>
+                   <p>To help answer this question Homies collected some of the most well-known cities in the United States coupled with the most common requirements of what makes a city ideal to live in.  The parameters include quality of life, purchasing power, safety, healthcare, cost of living, property price to income ratio, traffic commute time, pollution, crime and affordability.  Data for these metrics were selected from sources such as the United States Census Bureau and the Federal Bureau of Investigation.</p>
+                  <p>Anyone looking to settle down in a new city within the United States can find all the information they require to answer this question according to their set of standards.</p>
+                  </div>
+</div>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <div id="bar"></div>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+
+  <!-- The div that holds our map -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+  <div id="map-id" style="width:1067px;height:600px;"></div>
+     </div>
+   </div>
+  </div>
+
+  <!-- Summary -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h2>City Summary</h2>
+        <hr>
+        <h4 id = "Anchor" class="col-md-12 text-center">City:  </h4>
+        <h5 id = "Anchor_Affordability" class="col-md-12 text-center">Affordability Index:  </h5>
+        <h5 id = "Anchor_COL" class="col-md-12 text-center">Cost of Living Index: </h5>
+        <h5 id = "Anchor_Crime" class="col-md-12 text-center">Crime Index: </h5>
+        <h5 id = "Anchor_Healthcare" class="col-md-12 text-center">Health Care Index: </h5>
+        <h5 id = "Anchor_Pollution" class="col-md-12 text-center">Pollution Index: </h5>
+        <h5 id = "Anchor_PTI" class="col-md-12 text-center">Price to Income Ratio: </h5>
+        <h5 id = "Anchor_Purchasing" class="col-md-12 text-center">Purchasing Power Index: </h5>
+        <h5 id = "Anchor_QOL" class="col-md-12 text-center">Quality of Life Index: </h5>
+        <h5 id = "Anchor_Safety" class="col-md-12 text-center">Safety Index: </h5>
+        <h5 id = "Anchor_Traffic" class="col-md-12 text-center">Traffic Commute Time Index: </h5>
+        <h5 id = "Anchor_Weather" class="col-md-12 text-center">Current Temperature: </h5>
+
+
+
+      </div>
+    </div>
+    
+  </div>
+
+  <!-- D3 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+  <!-- Leaflet JavaScript -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+      </div>
+    </div>
+  </div>
+  <!-- Axios -->
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+  <script src="JS/config.js"></script>
+  <script src="JS/logic.js"></script>
+  <script src="JS/map.js"></script>
+  <script src="JS/weather.js"></script>
+  <script src="JS/summary.js"></script>
+
+
+</body>
+</html>

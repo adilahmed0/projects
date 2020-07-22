@@ -1,0 +1,79 @@
+rank,city,state,country,price_to_income_ratio,gross_rental_yield_city_centre,gross_rental_yield_outside_of_centre,price_to_rent_ratio_city_centre,price_to_rent_ratio_outside_of_city_centre,mortgage_as_a_percentage_of_income,affordability_index
+3,New York, NY, United States,11.66,4.97,6.79,20.12,14.73,86.25,1.16
+4,Santa Barbara, CA, United States,10.14,4.68,5.3,21.37,18.88,76.67,1.3
+5,San Francisco, CA, United States,9.26,5.74,5.74,17.43,17.41,68.84,1.45
+6,Honolulu, HI, United States,8.66,5.36,6.26,18.66,15.98,64.71,1.55
+7,Boston, MA, United States,8.48,5,8.21,20,12.19,62.91,1.59
+9,Los Angeles, CA, United States,7.72,6.44,7.86,15.53,12.72,57.74,1.73
+11,Jersey City, NJ, United States,6.63,6.21,11.36,16.09,8.8,49.35,2.03
+12,Long Beach, CA, United States,6.34,6.7,6.99,14.92,14.3,47.09,2.12
+13,Seattle, WA, United States,6.16,6.02,7.43,16.62,13.46,45.99,2.17
+14,Oakland, CA, United States,6.14,7.01,8.35,14.26,11.97,45.46,2.2
+15,San Jose, CA, United States,6.1,6.01,7.02,16.63,14.25,45.13,2.22
+16,San Diego, CA, United States,6.01,6.94,7.88,14.41,12.69,44.2,2.26
+17,Miami, FL, United States,5.91,9.55,12.17,10.47,8.22,45.48,2.2
+18,Irvine, CA, United States,5.78,7.42,7.95,13.48,12.58,42.42,2.36
+21,Bellingham, WA, United States,5.12,7,8.07,14.28,12.39,38.26,2.61
+22,Portland, OR, United States,4.93,8.27,8.68,12.09,11.52,36.47,2.74
+24,Washington, DC, United States,4.85,7.93,11.96,12.61,8.36,35.89,2.79
+26,Denver, CO, United States,4.79,8.44,10.14,11.85,9.86,35.72,2.8
+27,Bellevue, WA, United States,4.51,6.66,7.82,15.01,12.79,34.14,2.93
+29,Riverside, CA, United States,4.39,9.65,10.85,10.37,9.22,32.54,3.07
+30,Fort Lauderdale, FL, United States,4.26,8.83,14.06,11.32,7.11,31.67,3.16
+31,New Orleans, LA, United States,4.2,9.02,21.19,11.09,4.72,31.77,3.15
+32,Austin, TX, United States,4.03,8.55,11.11,11.69,9,29.79,3.36
+33,Vancouver, WA, United States,3.79,8.6,9.95,11.63,10.05,28.32,3.53
+34,Tacoma, WA, United States,3.76,9.42,9.71,10.62,10.3,27.89,3.59
+35,Boise, ID, United States,3.74,9.35,10.9,10.69,9.17,27.58,3.63
+36,Sacramento, CA, United States,3.71,9.13,11.42,10.95,8.76,27.42,3.65
+37,Salt Lake City, UT, United States,3.63,8.02,10.99,12.47,9.1,26.79,3.73
+38,West Palm Beach, FL, United States,3.59,10.44,16.21,9.58,6.17,26.96,3.71
+39,Reno, NV, United States,3.59,10.14,10.66,9.87,9.39,26.88,3.72
+40,Chicago, IL, United States,3.54,10.38,11.86,9.63,8.43,26.37,3.79
+41,Salem, OR, United States,3.41,10.04,9.53,9.96,10.49,25.52,3.92
+42,Philadelphia, PA, United States,3.31,9.73,18.83,10.27,5.31,24.57,4.07
+43,Madison, WI, United States,3.3,9.56,12.14,10.46,8.24,23.33,4.29
+44,Fresno, CA, United States,3.29,10.65,13.44,9.39,7.44,24.86,4.02
+45,Tampa, FL, United States,3.18,10.67,14.46,9.37,6.92,24.03,4.16
+46,Spokane, WA, United States,3.18,9.83,10.85,10.17,9.21,23.96,4.17
+47,Minneapolis, MN, United States,3.11,11.74,13.82,8.52,7.24,23,4.35
+48,Nashville, TN, United States,3.09,11.89,14.76,8.41,6.77,23.04,4.34
+49,Albuquerque, NM, United States,3.05,9.16,12.55,10.91,7.97,23.07,4.33
+50,Richmond, VA, United States,3.03,9.43,16.44,10.61,6.08,22.62,4.42
+51,Knoxville, TN, United States,2.98,10.98,16.22,9.11,6.17,22.51,4.44
+52,Orlando, FL, United States,2.96,13.01,15.51,7.69,6.45,21.98,4.55
+53,Milwaukee, WI, United States,2.95,13.09,15.42,7.64,6.48,21.86,4.57
+54,Atlanta, GA, United States,2.93,10.43,15.01,9.59,6.66,21.72,4.6
+55,Omaha, NE, United States,2.84,12.26,10.09,8.16,9.91,20.94,4.78
+56,Colorado Springs, CO, United States,2.84,10.69,11.79,9.35,8.48,21.23,4.71
+57,Phoenix, AZ, United States,2.8,10.96,11.99,9.12,8.34,21.11,4.74
+58,Las Vegas, NV, United States,2.78,10.31,11.71,9.7,8.54,20.98,4.77
+59,Virginia Beach, VA, United States,2.77,8.96,13.1,11.16,7.63,20.72,4.83
+60,Louisville, KY, United States,2.64,10.51,15.82,9.52,6.32,19.59,5.11
+61,Tucson, AZ, United States,2.62,9.44,13.66,10.59,7.32,20.66,4.84
+62,Baltimore, MD, United States,2.59,12.27,17.65,8.15,5.67,19,5.26
+63,Raleigh, NC, United States,2.58,9.36,13.99,10.69,7.15,19.04,5.25
+64,Anchorage, AK, United States,2.53,11.26,11.35,8.88,8.81,18.66,5.36
+65,Grand Rapids, MI, United States,2.46,14.66,17.87,6.82,5.6,18.15,5.51
+66,Oklahoma City, OK, United States,2.46,11.68,13.14,8.56,7.61,18.11,5.52
+67,Bakersfield, CA, United States,2.43,11.48,11.82,8.71,8.46,18.32,5.46
+68,Charlotte, NC, United States,2.4,11.54,16.56,8.67,6.04,17.92,5.58
+69,Cincinnati, OH, United States,2.4,11.83,18.99,8.45,5.27,17.56,5.7
+70,Saint Louis, MO, United States,2.38,11.44,13.49,8.74,7.41,17.59,5.69
+71,Dallas, TX, United States,2.36,12.17,16.06,8.21,6.23,17.48,5.72
+72,Columbus, OH, United States,2.31,14.14,17.65,7.07,5.67,16.76,5.97
+73,Indianapolis, IN, United States,2.26,15.57,17.1,6.42,5.85,16.83,5.94
+74,San Antonio, TX, United States,2.24,13.61,16.78,7.35,5.96,16.67,6
+75,Pittsburgh, PA, United States,2.21,15.22,22.47,6.57,4.45,16.68,6
+76,Houston, TX, United States,2.2,14.78,18.61,6.77,5.37,16.23,6.16
+77,Fort Worth, TX, United States,2.11,14.4,18.93,6.94,5.28,15.66,6.39
+78,Kansas City, MO, United States,2.08,11.49,20.54,8.71,4.87,15.34,6.52
+79,Little Rock, AR, United States,2.05,12.18,17.53,8.21,5.7,15.11,6.62
+80,Jacksonville, FL, United States,2.03,13.45,17.49,7.44,5.72,15.13,6.61
+81,Buffalo, NY, United States,1.97,14.01,26.38,7.14,3.79,14.66,6.82
+82,Tulsa, OK, United States,1.86,15.49,19.79,6.46,5.05,14,7.14
+83,Greenville, SC, United States,1.73,26.26,17.77,3.81,5.63,12.81,7.8
+84,Detroit, MI, United States,1.72,36.61,20.29,2.73,4.93,12.7,7.87
+85,Cleveland, OH, United States,1.52,22.17,22.25,4.51,4.5,11.26,8.88
+86,Memphis, TN, United States,1.42,17.94,27.22,5.57,3.67,10.59,9.44
+87,Toledo, OH, United States,1.36,15.38,25.11,6.5,3.98,10.32,9.69

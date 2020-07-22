@@ -1,0 +1,47 @@
+x,city,state,country,crime_index,safety_index
+1,Detroit, MI, United States,71.84,28.16
+2,Baltimore, MD, United States,71.25,28.75
+3,Albuquerque, NM, United States,68.63,31.37
+4,Saint Louis, MO, United States,67.16,32.84
+5,New Orleans, LA, United States,66.78,33.22
+6,Milwaukee, WI, United States,65.29,34.71
+7,Chicago, IL, United States,64.64,35.36
+8,Oakland, CA, United States,64.11,35.89
+9,Atlanta, GA, United States,63.63,36.37
+11,Houston, TX, United States,60.91,39.09
+12,Kansas City, MO, United States,60.23,39.77
+13,Jacksonville, FL, United States,58.29,41.71
+14,Philadelphia, PA, United States,58.09,41.91
+15,Washington, DC, United States,57.28,42.72
+16,Rochester, NY, United States,57.08,42.92
+18,Las Vegas, NV, United States,55.7,44.3
+19,Orlando, FL, United States,55.51,44.49
+21,Indianapolis, IN, United States,55.17,44.83
+22,Phoenix, AZ, United States,53.49,46.51
+23,Miami, FL, United States,52.91,47.09
+24,Tucson, AZ, United States,51.53,48.47
+25,Cincinnati, OH, United States,51.07,48.93
+26,Dallas, TX, United States,49.52,50.48
+28,San Francisco, CA, United States,48.97,51.03
+29,Minneapolis, MN, United States,48.72,51.28
+30,Sacramento, CA, United States,48.59,51.41
+32,Tampa, FL, United States,47.8,52.2
+34,Los Angeles, CA, United States,47.13,52.87
+36,San Antonio, TX, United States,46.11,53.89
+37,Portland, OR, United States,45.23,54.77
+38,Charlotte, NC, United States,45.17,54.83
+39,Seattle, WA, United States,44.68,55.32
+40,New York, NY, United States,44.22,55.78
+41,Honolulu, HI, United States,43.78,56.22
+43,Columbus, OH, United States,42.36,57.64
+44,Denver, CO, United States,42.15,57.85
+46,Riverside, CA, United States,42.11,57.89
+47,San Jose, CA, United States,41.96,58.04
+51,San Diego, CA, United States,36.18,63.82
+52,Pittsburgh, PA, United States,36.01,63.99
+54,Austin, TX, United States,34.6,65.4
+55,Boston, MA, United States,33.21,66.79
+56,Boise, ID, United States,32.86,67.14
+60,Madison, WI, United States,27.59,72.41
+61,Salt Lake City, UT, United States,25.2,74.8
+63,Irvine, CA, United States,17.08,82.92
